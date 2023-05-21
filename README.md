@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadullah Ahmet</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
 <p align="left"> <a href="https://twitter.com/blacke4gle06" target="blank"><img src="https://img.shields.io/twitter/follow/blacke4gle06?logo=twitter&style=for-the-badge" alt="blacke4gle06" /></a> </p>
 
