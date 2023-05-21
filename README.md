@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadullah Ahmet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacke4gle&label=Profile%20views&color=0e75b6&style=flat" alt="blacke4gle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blacke4gle" alt="blacke4gle" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/blacke4gle06" target="blank"><img src="https://img.shields.io/twitter/follow/blacke4gle06?logo=twitter&style=for-the-badge" alt="blacke4gle06" /></a> </p>
 
 - 🔭 I’m currently working on [foodOnline](https://github.com/blacke4gle/foodOnline)
